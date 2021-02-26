@@ -9,4 +9,4 @@
 - Used Bootstrap classes.
 - Created a search function to filter database results.
 - Created a custom Navbar
-- Intergated secruity 
+- Integrated security 
